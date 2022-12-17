@@ -1,0 +1,31 @@
+/* this command is use for take background colour and text colour */
+
+/* important showing in the down */
+/* #haj use for id  */
+
+    /* #kuldeep{
+        background-color: blue;
+        color: rgb(228, 13, 13);
+        
+    }  */
+    
+    /* important showing in the down */
+    /* .dot use for class */
+    /* .saini{
+        background-color: blueviolet;
+        color: ghostwhite;
+    } */
+    /* canvas {
+        display: block;
+        margin-right: 20px;
+        margin-top: 20px;
+       margin-left: 350px;
+       margin-bottom: 20px;
+      } */
+
+      .greeting{
+      color: blue;
+      text-align: center;
+      font-size: 200px;
+      text-shadow: currentColor;
+      }
